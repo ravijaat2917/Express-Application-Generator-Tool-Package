@@ -1,0 +1,5 @@
+// The npm commands for installing the express-generator 
+npm install -g express-generator
+express --view=ejs MyApp   //Here ejs is embedded javascript tamplet engine
+cd .\MyApp\
+npm install
